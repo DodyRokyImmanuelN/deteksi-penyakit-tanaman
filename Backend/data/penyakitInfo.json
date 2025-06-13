@@ -1,0 +1,14 @@
+{
+  "Bacterialblight": {
+    "deskripsi": "Bacterial blight adalah penyakit yang disebabkan oleh bakteri dan menyerang bagian daun tanaman padi. Gejalanya terlihat seperti bercak berair yang awalnya kecil, kemudian membesar dan berubah warna menjadi kecoklatan atau kehitaman. Daun yang terinfeksi terlihat seperti terbakar dan akhirnya bisa mengering atau mati. Penyakit ini biasanya menyebar saat musim hujan atau ketika kelembapan udara tinggi.",
+    "pengobatan": "Untuk mengatasi bacterial blight, gunakan bakterisida berbahan tembaga yang bisa dibeli di toko pertanian. Semprotkan secara merata pada daun yang terinfeksi, terutama saat pagi atau sore hari. Hindari menyiram tanaman terlalu sering agar kelembapan tidak berlebihan. Buang dan bakar daun-daun yang sudah parah agar penyakit tidak menyebar ke tanaman lain. Pastikan juga tanaman mendapat sirkulasi udara yang cukup dengan memberi jarak tanam yang tepat."
+  },
+  "Brownspot": {
+    "deskripsi": "Brown spot adalah penyakit yang sering menyerang daun tanaman padi. Gejalanya berupa bintik-bintik kecil berwarna coklat tua hingga hitam yang menyebar di permukaan daun. Lama-kelamaan, bercak ini membesar dan menyebabkan daun menjadi kering, layu, bahkan bisa mati. Penyakit ini biasanya muncul jika tanaman kekurangan unsur hara, terutama kalium dan silika, atau saat cuaca lembap dan panas.",
+    "pengobatan": "Untuk mengobati brown spot, gunakan fungisida berbahan aktif mancozeb atau klorotalonil, dan semprotkan pada seluruh bagian tanaman, terutama daun yang terinfeksi. Lakukan pemupukan yang seimbang agar tanaman tidak lemah dan rentan terhadap penyakit. Jika memungkinkan, lakukan rotasi tanaman (mengganti jenis tanaman setiap musim tanam) untuk mengurangi risiko penyebaran jamur. Buang daun-daun yang terinfeksi berat agar tidak menular ke daun lain."
+  },
+  "Leafsmut": {
+    "deskripsi": "Leaf smut adalah penyakit yang disebabkan oleh jamur dan menyerang daun tanaman padi. Ciri khasnya adalah munculnya garis-garis atau bercak kehitaman seperti jelaga di permukaan daun. Lama-kelamaan, bercak ini melebar dan membuat daun menjadi kaku, menggulung, bahkan kering. Penyakit ini umumnya berkembang saat cuaca hangat dan lembap, serta jika tanaman ditanam terlalu rapat.",
+    "pengobatan": "Untuk mengendalikan leaf smut, gunakan fungisida sistemik seperti propikonazol atau difenokonazol. Semprotkan saat gejala awal terlihat dan ulangi setiap 7–10 hari jika cuaca mendukung penyebaran penyakit. Pangkas daun-daun yang menunjukkan gejala berat dan bakar agar jamur tidak menyebar. Pastikan tanaman mendapat cahaya dan udara cukup dengan menanamnya tidak terlalu rapat."
+  }
+}
